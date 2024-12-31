@@ -1,4 +1,6 @@
-# site_pedidos_pascoa
+# Pedidos Pascoa
+
+Monte seu ovo de pascoa e realize o pedido.
 
 ## Project setup
 ```
